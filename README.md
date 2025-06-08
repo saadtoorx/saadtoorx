@@ -9,9 +9,9 @@
 ## 🔬 Machine Learning Projects
 Projects where I apply data, models, and intelligence.
 
-- 🔗 [Stock Price Prediction](https://github.com/saadtoor5/stock-price-prediction) – Predicting future stock trends using linear regression.
-- 🔗 [Sentiment Analysis with GRU](https://github.com/saadtoor5/sentiment-gru) – Deep learning model for text sentiment classification.
-- 🔗 [MNIST Digit Classifier](https://github.com/saadtoor5/mnist-classifier) – Handwritten digit recognition using neural networks.
+- 🔗 [Stock Price Prediction](https://github.com/saadtoor5/Stock-Price-Prediction-using-Past-data) – Predicting future stock trends using linear regression.
+- 🔗 [Diabetes Predictor](https://github.com/saadtoor5/Diabetes-Prediction-System-using-Logistic-Regression) – Deep learning model for predicting diabetes using provided data
+- 🔗 [Movie Recommending System](https://github.com/saadtoor5/Movie-Recommendation-System-Cosine-Similarity) – Movie Recomendation system used to predict the similar movies based on genre
 
 ---
 
