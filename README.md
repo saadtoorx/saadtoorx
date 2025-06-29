@@ -26,6 +26,6 @@ Experiments and tools focused on ethical hacking and security.
 
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/saadtoorx/)
-- 📧 saadtoor0@gmail.com
+- 📧 saadtoorx@gmail.com
 - 🧰 Always learning. Always building.
 
