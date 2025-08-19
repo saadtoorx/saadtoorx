@@ -38,26 +38,27 @@ I design and ship end-to-end AI & robotics projects — from research prototypes
 - **Multi-Agent Customer Support Automation** (Jul–Aug 2025)  
   Memory-enabled CrewAI system simulating an intelligent support team — research, reply generation, QA.  
   🔹 GitHub: `github.com/saadtoorx/Multi-Agent-Customer-Support-Automation`  
-  🔹 Demo: Hugging Face Space
+  🔹 Demo: [Hugging Face Space](https://huggingface.co/spaces/saadtoorx/multi-agent-customer-support-automation)
 
 - **Multi-Agent Event Planner** (Aug 2025)  
   End-to-end event planning with Venue Coordinator, Logistic Manager, and Marketing & Communications agents — produces venue JSON, marketing reports, and a full summary.  
   🔹 GitHub: `github.com/saadtoorx/Multi-Agent-Event-Planner`  
-  🔹 Demo: https://huggingface.co/spaces/saadtoorx/multi-agent-event-planner
+  🔹 Demo: [Hugging Face Space](https://huggingface.co/spaces/saadtoorx/multi-agent-event-planner)
 
 - **Multi-Agent Outreach Campaign System** (Jul–Aug 2025)  
   Automates outreach workflows — lead profiling, milestone analysis, personalized messaging, sentiment-aware outreach.  
   🔹 GitHub: `github.com/saadtoorx/Multi-Agent-Outreach-Campaign-System`  
-  🔹 Demo: Hugging Face Space
+  🔹 Demo: [Hugging Face Space](https://huggingface.co/spaces/saadtoorx/multi-agent-outreach-campaign-system)
 
 - **Research & Write Article Agent**  
   Planner → Writer → Editor pipeline that researches topics and generates SEO-ready articles with PDF/Markdown export.  
   🔹 GitHub: `github.com/saadtoorx/Research-Write-Article-Agent`
+  🔹 Demo: [Hugging Face Space](https://huggingface.co/spaces/saadtoorx/research-write-article-agent)
 
 - **AI Image Caption Generator**  
   Vision-language app (BLIP) producing descriptive captions for uploaded images with a Streamlit UI.  
   🔹 GitHub: `github.com/saadtoorx/ai-image-caption-generator`  
-  🔹 Demo: Hugging Face Space
+  🔹 Demo: [Hugging Face Space](https://huggingface.co/spaces/saadtoorx/ai-image-caption-generator)
 
 ---
 
@@ -119,19 +120,9 @@ These projects combine signal processing, control loops, embedded programming, a
 ---
 
 ## 📫 Let's connect
-- 🌐 LinkedIn: https://www.linkedin.com/in/saadtoorx/  
+- 🌐 LinkedIn: [@saadtoorx](https://www.linkedin.com/in/saadtoorx/)  
 - 📧 Email: saadtoorx@gmail.com  
-- 🧰 GitHub: https://github.com/saadtoorx  
-- 🔗 Hugging Face Spaces: https://huggingface.co/spaces/saadtoorx  
-- 🐦 X: @saadtoorx
+- 🧰 GitHub: [@saadtoorx](https://github.com/saadtoorx)  
+- 🔗 Hugging Face Spaces: [@saadtoorx](https://huggingface.co/saadtoorx)  
+- 🐦 X: [@saadtoorx](https://x.com/saadtoorx)
 
----
-
-## 🎯 Roadmap
-- Add live vendor & booking APIs to the Event Planner.  
-- Build a Budget Analyst & Sponsorship Agent for multi-agent workflows.  
-- Publish a guide: “Design patterns for multi-agent apps with CrewAI.”  
-
----
-
-Would you like this exported as a single `README.md` code block ready to paste into your GitHub profile? I can also add badges (GitHub, Hugging Face, email) and a hero image if you want it to look extra polished.
